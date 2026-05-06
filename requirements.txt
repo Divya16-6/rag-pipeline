@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain==1.2.17
+langchain-community==0.4.1
+langchain-core==1.3.3
+langchain-text-splitters==1.1.2
+pypdf
+sentence-transformers
+pinecone
+python-dotenv
+langdetect
+deep-translator
+python-multipart
